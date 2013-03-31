@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Уголок любителя ассемблера]]></title>
+  <title><![CDATA[Ассемблер]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-03-31T23:46:38+04:00</updated>
+  <updated>2013-03-31T23:51:36+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
