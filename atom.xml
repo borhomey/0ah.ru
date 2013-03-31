@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Уголок любителя ассемблера]]></title>
+  <link href="http://borhomey.github.com/0ah/atom.xml" rel="self"/>
+  <link href="http://borhomey.github.com/0ah/"/>
+  <updated>2013-03-31T22:48:32+04:00</updated>
+  <id>http://borhomey.github.com/0ah/</id>
+  <author>
+    <name><![CDATA[asman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
