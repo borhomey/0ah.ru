@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://borhomey.github.com/0ah/sitemap.xml 
+Sitemap: http://0ah.ru/sitemap.xml 

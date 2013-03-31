@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://borhomey.github.com/0ah/robots.txt</loc>
+        <loc>http://0ah.ru/robots.txt</loc>
         <lastmod>2013-03-25T00:32:29+04:00</lastmod>
     </url>
     <url>
-        <loc>http://borhomey.github.com/0ah/</loc>
+        <loc>http://0ah.ru/</loc>
         <lastmod>2013-03-25T00:32:29+04:00</lastmod>
     </url>
     <url>
-        <loc>http://borhomey.github.com/0ah/blog/archives/</loc>
+        <loc>http://0ah.ru/blog/archives/</loc>
         <lastmod>2013-03-25T00:32:29+04:00</lastmod>
     </url>
 </urlset>
