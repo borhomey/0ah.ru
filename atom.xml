@@ -4,7 +4,7 @@
   <title><![CDATA[Ассемблер]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-08-05T01:45:13+04:00</updated>
+  <updated>2013-08-05T02:01:06+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Первый пост]]></title>
+    <link href="http://0ah.ru/first-post/"/>
+    <updated>2013-08-05T01:51:00+04:00</updated>
+    <id>http://0ah.ru/first-post</id>
+    <content type="html"><![CDATA[<p>Решил проверить работу своего домена 0ah.ru, который стоит без дела и скучает. То есть, написать сюда что-нибудь и выложить какую-нибудь картинку. Вот эту, например:</p>
+
+<p><img src="http://img-fotki.yandex.ru/get/9511/1611962.7e/0_90327_b2ab49b0_orig.jpg" alt="ад на бассейне"></p>
+
+<p>Эта картинка сделана мною на телефон Galaxy S 3 на местном озере &#8220;Боровое&#8221;, находится в городе Саров. Вставил я сюда ее с одной лишь целью - проверить возможность.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Что такое ассемблер?]]></title>
