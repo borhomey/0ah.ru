@@ -4,7 +4,7 @@
   <title><![CDATA[Блог asm-писателя]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-09-30T22:47:45+04:00</updated>
+  <updated>2013-10-19T15:22:25+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Второй пост]]></title>
+    <link href="http://0ah.ru/vtoroj-post/"/>
+    <updated>2013-10-19T15:21:00+04:00</updated>
+    <id>http://0ah.ru/vtoroj-post</id>
+    <content type="html"><![CDATA[<p>А вот это уже второй пост. Он гораздо короче, чем первый. И тоже ни о чем.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Первый пост]]></title>
