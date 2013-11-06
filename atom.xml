@@ -4,7 +4,7 @@
   <title><![CDATA[Блог asm-писателя]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-11-03T22:43:54+04:00</updated>
+  <updated>2013-11-07T00:14:56+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Пост номер 4]]></title>
+    <link href="http://0ah.ru/chetvertyj-post/"/>
+    <updated>2013-11-07T00:13:00+04:00</updated>
+    <id>http://0ah.ru/chetvertyj-post</id>
+    <content type="html"><![CDATA[<p>А вот это уже четвертый пост в котором я ничего нового не сообщу. В то время как часы уже ушли за полночь, а я не сплю, хотя и пора бы уже лечь.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Третий пост в блоге]]></title>
