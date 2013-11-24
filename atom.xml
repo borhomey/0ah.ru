@@ -4,7 +4,7 @@
   <title><![CDATA[Блог asm-писателя]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-11-11T23:32:02+04:00</updated>
+  <updated>2013-11-24T11:14:34+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
@@ -48,19 +48,6 @@
     <updated>2013-10-19T15:21:00+04:00</updated>
     <id>http://0ah.ru/vtoroj-post</id>
     <content type="html"><![CDATA[<p>А вот это уже второй пост. Он гораздо короче, чем первый. И тоже ни о чем.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Первый пост]]></title>
-    <link href="http://0ah.ru/first-post/"/>
-    <updated>2013-08-05T01:51:00+04:00</updated>
-    <id>http://0ah.ru/first-post</id>
-    <content type="html"><![CDATA[<p>Решил проверить работу своего домена 0ah.ru, который стоит без дела и скучает. То есть, написать сюда что-нибудь и выложить какую-нибудь картинку. Вот эту, например:</p>
-
-<p><img src="http://img-fotki.yandex.ru/get/9511/1611962.7e/0_90327_b2ab49b0_orig.jpg" alt="ад на бассейне"></p>
-
-<p>Эта картинка сделана мною на телефон Galaxy S 3 на местном озере &#8220;Боровое&#8221;, находится в городе Саров. Вставил я сюда ее с одной лишь целью - проверить возможность.</p>
 ]]></content>
   </entry>
   
