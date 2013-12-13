@@ -4,7 +4,7 @@
   <title><![CDATA[Блог asm-писателя]]></title>
   <link href="http://0ah.ru/atom.xml" rel="self"/>
   <link href="http://0ah.ru/"/>
-  <updated>2013-11-24T11:14:34+04:00</updated>
+  <updated>2013-12-13T23:20:02+04:00</updated>
   <id>http://0ah.ru/</id>
   <author>
     <name><![CDATA[asman]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Кто здесь?]]></title>
+    <link href="http://0ah.ru/kto-zdes/"/>
+    <updated>2013-12-13T23:13:00+04:00</updated>
+    <id>http://0ah.ru/kto-zdes</id>
+    <content type="html"><![CDATA[<p>Очередной пост ни о чем, который публикуется с целью тестирования функции deploy на компьютере. Получится или нет задеплоить этот пост? Конечно же нет, потому что для этого компьютера не добавлены сертификаты для деплоинга на github.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Пост номер 5]]></title>
