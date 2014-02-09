@@ -6,15 +6,15 @@
     </url>
     <url>
         <loc>http://0ah.ru/vtoroj-post/</loc>
-        <lastmod>2013-10-19T15:22:11+04:00</lastmod>
+        <lastmod>2013-10-19T15:22:10+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/tretij-post/</loc>
-        <lastmod>2013-11-03T22:18:03+04:00</lastmod>
+        <lastmod>2013-11-03T22:18:02+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/chetvertyj-post/</loc>
-        <lastmod>2013-11-07T00:14:41+04:00</lastmod>
+        <lastmod>2013-11-07T00:14:40+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/nomer-pyat/</loc>
@@ -22,11 +22,11 @@
     </url>
     <url>
         <loc>http://0ah.ru/kto-zdes/</loc>
-        <lastmod>2013-12-13T23:19:33+04:00</lastmod>
+        <lastmod>2013-12-13T23:19:32+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/blog/archives/</loc>
-        <lastmod>2013-12-13T23:19:33+04:00</lastmod>
+        <lastmod>2013-12-13T23:19:32+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/contacts/</loc>
@@ -34,10 +34,18 @@
     </url>
     <url>
         <loc>http://0ah.ru/</loc>
-        <lastmod>2013-12-13T23:19:33+04:00</lastmod>
+        <lastmod>2013-12-13T23:19:32+04:00</lastmod>
     </url>
     <url>
         <loc>http://0ah.ru/robots.txt</loc>
-        <lastmod>2013-03-25T00:32:29+04:00</lastmod>
+        <lastmod>2013-03-25T00:32:28+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://0ah.ru/fotos/</loc>
+        <lastmod>2014-02-09T22:29:00+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://0ah.ru/fotos/test/</loc>
+        <lastmod>2014-02-09T22:30:36+04:00</lastmod>
     </url>
 </urlset>
